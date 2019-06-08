@@ -32,6 +32,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
     "uniqCompNum": 16,
     "versionPublish": "4.8.1"
   },
